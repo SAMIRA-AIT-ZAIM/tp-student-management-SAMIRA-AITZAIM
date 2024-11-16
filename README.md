@@ -28,5 +28,10 @@ Avant de démarrer, assurez-vous d'avoir les outils suivants installés sur votr
 - MySQL
 - Git
 
+## vidéo
+
+https://github.com/user-attachments/assets/e39c81f1-e2f4-4db3-8811-d335fda8393d
+
+
 
  
